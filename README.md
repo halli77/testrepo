@@ -16,4 +16,4 @@ function helloworld() {
 }
 ```
 
-Änderung für v0.0.2
+Änderung für v0.0.3
